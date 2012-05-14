@@ -1,0 +1,8 @@
+Changes
+Client.xs
+Makefile.PL
+MANIFEST
+ppport.h
+README
+t/FastDFS-Client.t
+lib/FastDFS/Client.pm

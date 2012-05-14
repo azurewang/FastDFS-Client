@@ -1,0 +1,6 @@
+Revision history for Perl extension FastDFS::Client.
+
+0.01  Fri May 11 19:15:16 2012
+	- original version; created by h2xs 1.23 with options
+		-A -n FastDFS::Client
+
